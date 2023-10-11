@@ -1,0 +1,52 @@
+body{
+    background-color:#C8A2C8;
+    
+  }
+  
+  
+  h1{
+    font-size: 45;font-family:Verdana, sans-serif, Tahoma;
+    display:flex;
+    justify-content:center; 
+  }
+  
+  h2{
+    margin:-25px 0 0 0;  font-size:17;
+    font-family:sans-serif,  ;
+    display:flex;
+    justify-content:center;
+  }
+  
+  div, img{
+    max-width:100%;
+     margin-left:auto;
+      margin-right:auto;
+      width:960px;
+      text-align:center;
+  
+  }
+  
+  #img-div{
+    padding:10px;
+    background-color:#ffff;
+    max-width:100%;
+    
+  }
+  
+  img{
+    display:block;
+  }
+  
+  ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    font-size:16;
+  
+  }
+  
+  p{
+    text-align:center;
+    font-size:16;
+  }
